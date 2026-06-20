@@ -3,7 +3,7 @@
 int add(int, int);
 int sub(int, int);
 int mul(int, int);
-float div(float, float);
+float divide(float, float);
 
 int main()
 {
@@ -44,7 +44,7 @@ int main()
         case 4:
             if(b != 0)
             {
-                printf("Result: %.2f\n", div((float)a, (float)b));
+                printf("Result: %.2f\n", divide((float)a, (float)b));
             }
             else
             {
@@ -73,7 +73,7 @@ int mul(int x, int y)
     return x * y;
 }
 
-float div(float x, float y)
+float divide(float x, float y)
 {
     return x / y;
 }
