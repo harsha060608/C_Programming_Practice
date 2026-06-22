@@ -23,9 +23,9 @@ This Repository contains my C Programming Practice programs while learning C.
 ### 2. Reverse Array Elements
 
 ## Concepts Used:
-- 1D Arrays
+- 1D Array
 - For Loop
-- Array Transversal
+- Array Traversal
 
 ### 3. Repeated Digit Check using Array
 
