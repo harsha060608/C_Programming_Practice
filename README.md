@@ -1,6 +1,10 @@
-# C_Program_Practice
+# C_Programming_Practice
 
-A simple calculator program written in C using Functions and Switch statement.
+This Repository contains my C Programming Practice programs while learning C.
+
+## Programs
+
+### 1. Calculator using Functions and Switch 
 
 ## Concepts Used:
 - Functions
@@ -15,3 +19,22 @@ A simple calculator program written in C using Functions and Switch statement.
 2. Subtraction
 3. Multiplication
 4. Division
+
+### 2. Reverse Array Elements
+
+## Concepts Used:
+- 1D Arrays
+- For Loop
+- Array Transversal
+
+### 3. Repeated Digit Check using Array
+
+## Concepts Used:
+- 1D Array
+- While Loop
+- User Input
+- Conditional Statements
+- Modulus Operator (%)
+- Division Operator (/)
+- Array as a tracking table
+  
