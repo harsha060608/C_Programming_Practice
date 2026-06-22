@@ -1,4 +1,4 @@
-# My-First-C-Program-Mini-Project
+# C_Program_Practice
 
 A simple calculator program written in C using Functions and Switch statement.
 
