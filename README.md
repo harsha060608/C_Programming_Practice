@@ -48,6 +48,4 @@ This Repository contains my C Programming Practice programs while learning C.
 - User Input
 - Matrix Multiplication Logic
 - Storing Result in Another Matrix
-
-- 
   
