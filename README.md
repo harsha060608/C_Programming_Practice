@@ -37,4 +37,17 @@ This Repository contains my C Programming Practice programs while learning C.
 - Modulus Operator (%)
 - Division Operator (/)
 - Array as a tracking table
+
+## 4. Matrix Multiplication using 2D Arrays
+
+### Concepts Used:
+- 2D Arrays
+- Nested For Loops
+- Conditional Statements
+- Matrix Row and Column Traversal
+- User Input
+- Matrix Multiplication Logic
+- Storing Result in Another Matrix
+
+- 
   
