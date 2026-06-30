@@ -13,7 +13,7 @@
 ### Reverse Array
 
 File:
-reverse_array.c
+Reverse_Array.c
 
 Concepts:
 
@@ -23,7 +23,7 @@ Concepts:
 ### Repeated Digit Check
 
 File:
-repeated_digit_check.c
+Repeated_Digit_Check.c
 
 Concepts:
 
@@ -34,7 +34,7 @@ Concepts:
 ### Matrix Multiplication
 
 File:
-matrix_multiplication.c
+Matrix_Multiplication.c
 
 Concepts:
 
