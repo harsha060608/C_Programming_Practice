@@ -20,7 +20,7 @@ The goal of this repository is to document my progress, improve problem-solving 
 
 #### Calculator using Functions and Switch 
 
-## Concepts Used:
+##### Concepts Used:
 - Functions
 - Function Declaration and Function Definition
 - Parameters and Return values
@@ -28,7 +28,7 @@ The goal of this repository is to document my progress, improve problem-solving 
 - User Input
 - Conditional Statements
 
-## Operations:
+##### Operations:
 1. Addition
 2. Subtraction
 3. Multiplication
@@ -38,14 +38,14 @@ The goal of this repository is to document my progress, improve problem-solving 
 
 #### Reverse Array Elements
 
-## Concepts Used:
+##### Concepts Used:
 - 1D Array
 - For Loop
 - Array Traversal
 
 #### Repeated Digit Check using Array
 
-## Concepts Used:
+##### Concepts Used:
 - 1D Array
 - While Loop
 - User Input
@@ -56,7 +56,7 @@ The goal of this repository is to document my progress, improve problem-solving 
 
 #### Matrix Multiplication using 2D Arrays
 
-## Concepts Used:
+##### Concepts Used:
 - 2D Arrays
 - Nested For Loops
 - Conditional Statements
@@ -67,9 +67,9 @@ The goal of this repository is to document my progress, improve problem-solving 
 
 ### Strings
 
-#### Count words in String
+#### Count Words in String
 
-## Concepts Used:
+##### Concepts Used:
 - Space Checking
 - Word boundary detection
 - Edge Cases
