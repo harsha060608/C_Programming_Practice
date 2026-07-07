@@ -12,6 +12,7 @@ The goal of this repository is to document my progress, improve problem-solving 
 - 2D Arrays
 - Strings
 - Conditional Statements
+- Pointers
 - Problem Solving
 
 ## Programs
@@ -74,8 +75,38 @@ The goal of this repository is to document my progress, improve problem-solving 
 - Word boundary detection
 - Edge Cases
 
-## Currently Learning
+### Pointers
+
+#### Search Element Using Pointers
+
+##### Concepts Used:
+- User Input
+- Conditional Statements
+- Arrays
 - Pointers
+- Pointer Traversal
+- Pointer Arithmetic
+- Pointer Subtraction (p - a)
+- Linear Search
+- For Loop
+- Flag Variable
+- if statement
+
+#### Reverse Array Using Pointers
+
+##### Concepts Used:
+- Arrays
+- Pointers
+- Two-Pointer Technique
+- Pointer Traversal
+- Pointer Arithmetic
+- Swapping values using Pointers
+- Temporary Variable (temp)
+- While Loop
+
+
+## Currently Learning
+- Recursions
 
 ## Future Topics
 - Structures
