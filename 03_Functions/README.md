@@ -1,4 +1,6 @@
-### Functions
+# Functions
+
+This folder contains C Programs related to Functions
 
 ## Concepts Covered
 
