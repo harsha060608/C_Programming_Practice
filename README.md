@@ -13,6 +13,7 @@ The goal of this repository is to document my progress, improve problem-solving 
 - Strings
 - Conditional Statements
 - Pointers
+- Recursions
 - Problem Solving
 
 ## Programs
@@ -104,12 +105,58 @@ The goal of this repository is to document my progress, improve problem-solving 
 - Temporary Variable (temp)
 - While Loop
 
+### Recursions
+
+#### Factorial 
+
+##### Concepts Used:
+- Recursive Function
+- Base Case
+- Recursive call
+- Returning Values
+- Multiplication through Recursion
+
+### Print Numbers from 1 to N
+
+#### Concepts Used:
+- Recursive Function
+- Base Case
+- Recursive call
+- Printing after Recursive call
+- Head Recursion
+
+### Print Numbers from N to 1
+
+#### Concepts Used:
+- Recursive Function
+- Base Case
+- Recursive call
+- Printing before Recursive call
+- Tail Recursion
+
+### Sum of First N Natural Numbers
+
+#### Concepts Used:
+- Recursive Function
+- Base Case
+- Returning Values
+- Recursive call
+- Addition through Recursion
+
+### Power of a Number
+
+#### Concepts Used:
+- Recursive Function
+- Base Case
+- Recursive call
+- Returning values
+- Exponentiation using Recursion
+- Function with multiple parameters
 
 ## Currently Learning
-- Recursions
+- Structures
 
 ## Future Topics
-- Structures
 - File Handling
 - Dynamic Memory Allocation
 - C Projects
